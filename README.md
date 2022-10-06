@@ -7,3 +7,5 @@ The project creation modality is to develop a project that has been created by a
 The project itself tries to search for information within selected web pages. This information *(job offers in certain positions)* will be treated as confidential data and will be used to select candidates who meet the requirements.
 
 All project documentation is written on the [white papers](https://github.com/Imanolasolo/Raptor_Eye_Project/tree/main/White_Papers), and is stored in the directory of the same name in this repository.
+
+The presentation for Elevator pitch is included in Presentation folder
