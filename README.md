@@ -8,4 +8,4 @@ The project itself tries to search for information within selected web pages. Th
 
 All project documentation is written on the [white papers](https://github.com/Imanolasolo/Raptor_Eye_Project/tree/main/White_Papers), and is stored in the directory of the same name in this repository.
 
-The presentation for Elevator pitch is included in Presentation folder
+The presentation for Elevator pitch is included in [Presentation](https://github.com/Imanolasolo/Raptor_Eye_Project/tree/main/Presentation) folder in PDF format.
